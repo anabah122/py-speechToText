@@ -39,3 +39,4 @@ while True:
         if partial.get("partial"):
 
             print( partial["partial"], end="\r", flush=True)
+
